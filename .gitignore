@@ -8,3 +8,6 @@ test-ledger
 cli/test-wallet.json
 cli/test-team-treasury.json
 buffer
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
